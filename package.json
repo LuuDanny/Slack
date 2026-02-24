@@ -1,0 +1,19 @@
+{
+  "name": "slack-voice-volume-booster",
+  "version": "1.0.0",
+  "description": "A utility to increase and manage voice volume settings for Slack calls and huddles",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "configure": "node src/configure.js"
+  },
+  "keywords": [
+    "slack",
+    "voice",
+    "volume",
+    "audio",
+    "huddle"
+  ],
+  "author": "",
+  "license": "MIT"
+}
